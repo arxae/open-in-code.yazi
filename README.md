@@ -31,7 +31,7 @@ git clone https://github.com/arxae/open-in-code.yazi.git %AppData%\yazi\config\p
 
 ## Configuration
 
-You need to asociate this plugin with a key binding.
+You need to associate this plugin with a key binding.
 
 We suggest you associate this plugin with the `g => v` key binding.
 To do so, add the following code to your `keymap.toml` file:
